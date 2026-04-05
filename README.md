@@ -109,7 +109,7 @@ python main.py
 ## Project Structure
 
 ```
-Mutli_Agent_DateTime_Agent/
+Multi_Agent_Date-Time_Agent/
 ├── README.md
 ├── requirements.txt
 ├── main.py
